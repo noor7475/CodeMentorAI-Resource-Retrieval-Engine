@@ -1,6 +1,6 @@
-# Codementor AI Resource Retrieval Engine
+# CodementorAI Resource Retrieval Engine
 
-This repository contains AI Intelligence and Resource Retrieval module of the **Codementor AI** website project. It functions as an autonomous **Resource Retrieval Engine** that converts abstract learning objectives into personalized, high-quality technical roadmaps.
+This repository contains AI Intelligence and Resource Retrieval module of the **CodementorAI** website project. It functions as an autonomous **Resource Retrieval Engine** that converts abstract learning objectives into personalized, high-quality technical roadmaps.
 
 ---
 
